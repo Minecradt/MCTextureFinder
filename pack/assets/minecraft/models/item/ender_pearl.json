@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/ender_pearl"},"overrides":[{"predicate":{"custom_model_data":2000001},"model":"minehut:golf/ender_pearl_golf_ball"}]}

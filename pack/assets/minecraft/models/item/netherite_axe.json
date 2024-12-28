@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/netherite_axe"},"overrides":[{"predicate":{"custom_model_data":1000001},"model":"minehut:cosmetics/autumn2022/autumn_axe"},{"predicate":{"custom_model_data":1000002},"model":"minehut:cosmetics/general/arcade_axe"},{"predicate":{"custom_model_data":1000003},"model":"minehut:cosmetics/winter2022/ice_axe"}]}

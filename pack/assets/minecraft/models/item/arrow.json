@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/arrow"},"overrides":[{"predicate":{"custom_model_data":1000001},"model":"minehut:cosmetics/autumn2022/autumn_arrow"},{"predicate":{"custom_model_data":2000001},"model":"minehut:golf/ender_pearl_golf_ball_empty"}]}

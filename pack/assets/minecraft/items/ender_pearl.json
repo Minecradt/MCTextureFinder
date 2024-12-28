@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","fallback":{"type":"model","model":"minecraft:item/ender_pearl"},"entries":[{"threshold":2000001,"model":{"type":"model","model":"minehut:golf/ender_pearl_golf_ball"}}]}}

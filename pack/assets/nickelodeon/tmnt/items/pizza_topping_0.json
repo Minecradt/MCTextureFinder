@@ -1,0 +1,1 @@
+{"credit":"Made with Blockbench","texture_size":[64,64],"textures":{"0":"pizza","particle":"pizza"},"elements":[{"name":"pizza_topping","from":[0,1.89063,0],"to":[16,1.89063,16],"rotation":{"angle":0,"axis":"y","origin":[8,1.38281,8]},"faces":{"up":{"uv":[13.75,12.5,9.75,8.5],"texture":"#0"}}}]}
